@@ -58,7 +58,7 @@ li {
 				style="opacity: 0.9">
 				<li><a href="Welcomepage"
 					class="w3-hover-none w3-text-sand w3-hover-text-white"><i
-						class="fa fa-home"></i> S H O P P I E E </a></li>
+						class="fa fa-home"></i> CARTICO </a></li>
 				<c:choose>
 					<c:when test="${LoggedIn}">
 
@@ -269,27 +269,23 @@ li {
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="https://zawgyimart-12d3.kxcdn.com/image/55deb90242858c235a8b4567/1200/250" width="1200" height="250" alt="style">
+        <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/716x402+0+55/resize/716x402!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/a46b288b5021ca4ba9f9f86c7ca8f1aa/201538917/2015-gmc-canyon-01-1.jpg" width="1200" height="250" alt="style">
       </div>
 
       <div class="item">
 
-        <img src="http://icdn2.digitaltrends.com/image/android-n-developer-mem1-alternate-1200x250-c.png" width="1200" height="250" alt="pant">
+        <img src="https://www.wired.com/images_blogs/autopia/2011/09/Magnolia-Special-021.jpg" width="1200" height="250" alt="pant">
       </div>
 
       <div class="item">
-        <img src="https://zawgyimart-12d3.kxcdn.com/image/55deb89942858c255a8b4567/1200/250" width="1200" height="250" alt="pant">
+        <img src="http://i.forbesimg.com/media/video/2014/08/16/3732904815001_still.jpg" width="1200" height="250" alt="pant">
       </div>    
   
       <div class="item">
-        <img src="http://cdn3.focuscamera.com/media/wysiwyg/featured-brand/Samsung.jpg" width="1200" height="250" alt="Footwear">
+        <img src="http://www.sportscardigest.com/wp-content/uploads/902056Brooklands_10.jpg" width="1200" height="250" alt="Footwear">
       </div>
 
-      <div class="item">
-        <img src="http://cdn3.focuscamera.com/media/wysiwyg/featured-brand/20160208_OlympusFeaturedBrand.jpg" width="1200" height="250" alt="Eyewear">
-      </div>
-    </div>
-
+      
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -393,7 +389,7 @@ li {
 		</div>
 	</div> --%>
 	<!-- Product List End -->
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	<footer class="footer-distributed w3-card-4 w3-black w3-margin-0"
 		style="opacity: 0.9">
 		<div class="footer-left" style="margin-top: 10px">
@@ -409,7 +405,7 @@ li {
 			<p></p>
 			<p></p>
 			<p>
-				S H O P P I E E<i class="fa fa-copyright" aria-hidden="true"> 2016</i>
+				CARTICO<i class="fa fa-copyright" aria-hidden="true"> 2016</i>
 			</p>
 			<p></p>
 			<div class="footer-icons">
@@ -422,12 +418,12 @@ li {
 			<div>
 				<i class="fa fa-map-marker"></i>
 				<p>
-					<span>LENIN,LIVIES</span>
+					<span>HYDERABAD,CARTICO'S</span>
 				</p>
 			</div>
 			<div>
 				<i class="fa fa-phone"></i>
-				<p>+1 9177046135</p>
+				<p>+1 9010143463</p>
 			</div>
 			<div>
 				<i class="fa fa-envelope"></i>
@@ -439,7 +435,7 @@ li {
 		<div class="footer-right">
 			<p class="footer-company-about">
 				<span>About the company</span> <a href="http://www.secura.e-sim.org"
-					title="SHOPPIE, website template creation">S H O P P I E E </a>
+					title="SHOPPIE, website template creation">ALL STORE </a>
 					
 			</p>
 		</div>
